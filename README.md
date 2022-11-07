@@ -98,7 +98,7 @@ EOF
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 
 ```
-wget https://raw.githubusercontent.com/Sincan2/V2ray/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Sincan2/v2ray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
